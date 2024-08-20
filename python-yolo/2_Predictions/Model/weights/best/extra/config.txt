@@ -1,0 +1,1 @@
+{"shape": [1, 3, 640, 640], "stride": 32, "names": ["person", "car", "chair", "bottle", "pottedplant", "bird", "dog", "sofa", "bicycle", "horse", "boat", "motorbike", "cat", "tvmonitor", "cow", "sheep", "aeroplane", "train", "diningtable", "bus"]}
